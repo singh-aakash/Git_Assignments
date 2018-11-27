@@ -1,0 +1,19 @@
+git Commands
+
+$ git status
+$ git add.
+$ git commit -m "add text"
+$ git push origin master
+$ git mv first.txt Second.txt
+$ git commit -am "modifies data"
+$ git add Doc.txt
+$ git push origin master_name
+$ git branch xyz
+$ git branch branch_name
+$ git checkout branch_name
+$ git checkout -b branch_name
+$ git branch -D branch_name
+$ git push origin --delete Master_name
+$ git log
+$ git diff master Branch_name
+$ git merge Branch_name
